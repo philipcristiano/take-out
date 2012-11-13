@@ -1,6 +1,9 @@
 coverage
+fabric
 mock
 nose
+linode-python
 pea
+pycli
 sphinx
 -e git://github.com/lacostej/nosyd.git#egg=nosyd
