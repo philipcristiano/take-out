@@ -2,6 +2,7 @@
 
 # Testing
 nosetests.xml
+/chef
 
 # virtualenv
 venv/
